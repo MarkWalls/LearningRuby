@@ -1,0 +1,22 @@
+
+Basic: (But an egg)
+Eloquent Ruby - Highly recommended by Chuck
+http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series-ebook/dp/B004MMEJ36/ref=tmm_kin_title_0
+
+Holy Sh!snat! - Incredible course in thinking with Ruby
+https://rubymonk.com/
+
+Learn Ruby the Hard Way
+http://ruby.learncodethehardway.org/book/
+
+Good overview of the path
+https://medium.com/how-i-learned-ruby-rails/how-i-trained-to-learn-rails-e08c94e2a51e
+
+
+Mid way to madness:
+http://rubyquiz.com/quiz1.html
+
+
+
+Advanced:
+Only the Shadow knows.....
